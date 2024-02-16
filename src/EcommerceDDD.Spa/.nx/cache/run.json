@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx serve",
+    "startTime": "2024-02-15T20:04:14.038Z",
+    "endTime": "2024-02-15T20:04:16.316Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "ecommerceddd-spa:serve:development",
+      "target": "serve",
+      "projectName": "ecommerceddd-spa",
+      "hash": "10788269354742284164",
+      "startTime": "2024-02-15T20:04:14.058Z",
+      "endTime": "2024-02-15T20:04:16.315Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

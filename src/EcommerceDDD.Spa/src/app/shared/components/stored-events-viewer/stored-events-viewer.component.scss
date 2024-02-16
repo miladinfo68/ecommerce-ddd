@@ -1,0 +1,30 @@
+table {
+  margin-top: 5px;
+  display: block;
+  overflow: auto;
+}
+th div {
+  margin-top: -20px;
+  position: absolute;
+}
+
+.stored-events-viewer {
+  margin-bottom: 5%;
+
+  .table-scroll {
+    max-width: 100%;
+    max-height: 400px;
+    overflow-x: auto;
+    overflow-y: auto;
+  }
+  .event-type {
+    color: #0e4860;
+    font-weight: bolder;
+  }
+  .event-data {
+    color: #3c748f;
+  }
+  .close-container {
+    text-align: center;
+  }
+}
